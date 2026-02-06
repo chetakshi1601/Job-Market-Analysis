@@ -9,4 +9,5 @@ This dashboard provides insights into hospital admissions, patient demographics,
 - Ontario has the highest number of admissions.
 
 ### 🔹 Dashboard Preview
-![Screenshot 2026-02-06 113946.png](hospital_dashboard.png)
+![Hospital Dashboard](Screenshot%202026-02-06%20113946.png)
+
