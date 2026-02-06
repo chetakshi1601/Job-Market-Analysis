@@ -1,4 +1,4 @@
-## 📊 Hospital Management Dashboard (Power BI)
+# 📊 Hospital Management Dashboard (Power BI)
 
 This dashboard provides insights into hospital admissions, patient demographics, BMI categories, monthly trends, and regional distribution.
 
